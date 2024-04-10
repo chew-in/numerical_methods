@@ -16,4 +16,3 @@ This project includes my attempts of a Numerical Methods class, where we solve i
 If time permits:
 5. Parameter calibration/fitting
 6. Reinforcement Learning for optimal option exercise
-
